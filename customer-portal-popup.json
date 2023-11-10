@@ -15,7 +15,7 @@
 			"displayType": "Only Portal",
 			"displayFromDate": "01/01/2024",
 			"displayToDate": "31/01/2024",
-			"title": "Download Invoice as PDF",
+			"title": "Download Invoice PDF",
 			"width": "500",
 			"height": "200",
             "contentHTML": "<div style=\"padding:2em ;\"></br></br></br></br></br><b>Downloading is in progresss. Please wait....<b></div>",
